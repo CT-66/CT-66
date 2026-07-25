@@ -1,3 +1,3 @@
 Hello world
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=CT-66)](https://github.com/stats-organization/github-stats-extended)
+[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=CT-66&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=CT-66&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=material-palenight)
